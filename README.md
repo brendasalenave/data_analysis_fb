@@ -5,6 +5,6 @@
 - [R]
 - [R kernel]
 
-[Jupyter Notebooks][https://jupyter.org/]
-[R][https://www.r-project.org/]
-[R kernel][https://irkernel.github.io/]
+[Jupyter Notebooks]:<https://jupyter.org/>
+[R]:<https://www.r-project.org/>
+[R kernel]:<https://irkernel.github.io/>
