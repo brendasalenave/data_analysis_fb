@@ -1,6 +1,17 @@
 
-#### <span style="color:#00b3b3">Pré requisitos</span>
-<font color="red">This is some text!</font>
+### Descrição do Projeto
+Análise de polaridade de comentários em redes sociais em língua portuguesa utilizando R.
+
+#### Etapas
+- [x] Análise de polaridade geral
+- [x] Nuvem de palavras geral
+
+### Próximos passos
+- [ ] Análise de polaridade por período/postagem
+- [ ] Nuvem de palavras por período/postagem
+
+##### Pré Requisitos
+
 - [Jupyter Notebooks]
 - [R]
 - [R kernel]
